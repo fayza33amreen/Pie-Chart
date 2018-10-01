@@ -18,8 +18,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".FetchDataActivity" />
-        <activity android:name=".TabActivity"></activity>
+        <activity android:name=".FetchDataActivity"></activity>
     </application>
 
 </manifest>
